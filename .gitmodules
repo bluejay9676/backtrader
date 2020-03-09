@@ -1,0 +1,3 @@
+[submodule "autotrader"]
+	path = autotrader
+	url = https://github.com/bluejay9676/AutoTrader.git
